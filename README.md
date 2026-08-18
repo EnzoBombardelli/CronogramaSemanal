@@ -5,15 +5,16 @@
 ### Segunda-feira (17/08)
 - ✅ Relatório do LondrinenseTech
 - ✅ Cronograma semanal
-- ⏳ Tarefa 02 Tópicos de Álgebra Linear
+- ✅ Tarefa 02 Tópicos de Álgebra Linear
 
 ### Terça-feira (18/08)
-- ⏳ Relatório do Pensamento Computacional
-- ⏳ Adição de informações pessoais no portifólio(html)
+- ✅ Relatório do Pensamento Computacional
+- ✅ Tarefa 03 Tópicos de Álgebra Linear
 - ⏳ Atividade 07 - POO
 
 ### Quarta-feira (19/08)
 - ⏳ Relatório do Pensamento Computacional
+- ⏳ Adição de informações pessoais no portifólio(html)
 - ⏳ Organizar e arrumar portifólio(css)
 
 ### Quinta-feira (20/08)
