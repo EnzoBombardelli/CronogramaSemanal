@@ -15,14 +15,14 @@
 ### Quarta-feira (19/08)
 - ✅ Relatório do Pensamento Computacional
 - ✅ Adição de informações pessoais no portifólio(html)
-- ⏳ Organizar e arrumar portifólio(css)
+- ✅ Organizar e arrumar portifólio(css)
 
 ### Quinta-feira (20/08)
-- ⏳ Estilizar(css) e animar(js) botões no portifólio
-- ⏳ Lista 01 - Tópicos de Álgebra Linear
-- ⏳ Atividade 08 - POO
+- ✅ Organizar e arrumar portifólio(css)
+- ✅ Atividade 08 - POO
 
 ### Sexta-feira (21/08)
+- ⏳ Estilizar(css) e animar(js) botões no portifólio
 - ⏳ Criar filtros no botões do portifílio(js)
 - ⏳ Lista 01 - Tópicos de Álgebra Linear 
 
