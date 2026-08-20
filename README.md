@@ -10,17 +10,17 @@
 ### Terça-feira (18/08)
 - ✅ Relatório do Pensamento Computacional
 - ✅ Tarefa 03 Tópicos de Álgebra Linear
-- ⏳ Atividade 07 - POO
+- ✅ Atividade 07 - POO
 
 ### Quarta-feira (19/08)
-- ⏳ Relatório do Pensamento Computacional
-- ⏳ Adição de informações pessoais no portifólio(html)
+- ✅ Relatório do Pensamento Computacional
+- ✅ Adição de informações pessoais no portifólio(html)
 - ⏳ Organizar e arrumar portifólio(css)
 
 ### Quinta-feira (20/08)
 - ⏳ Estilizar(css) e animar(js) botões no portifólio
 - ⏳ Lista 01 - Tópicos de Álgebra Linear
-- ⏳ Atividade 07 - POO
+- ⏳ Atividade 08 - POO
 
 ### Sexta-feira (21/08)
 - ⏳ Criar filtros no botões do portifílio(js)
