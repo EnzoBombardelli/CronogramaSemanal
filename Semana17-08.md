@@ -22,9 +22,8 @@
 - ✅ Atividade 08 - POO
 
 ### Sexta-feira (21/08)
-- ⏳ Estilizar(css) e animar(js) botões no portifólio
-- ⏳ Criar filtros no botões do portifílio(js)
-- ⏳ Lista 01 - Tópicos de Álgebra Linear 
+- ✅ Organizar e arrumar portifólio(css)
+- ✅ Lista 01 - Tópicos de Álgebra Linear 
 
 ---
 
