@@ -1,6 +1,4 @@
-# Cronograma semanal de afazeres no NPI
-
-##  Semana Atual: 17/08 a 21/08
+#  Semana Atual: 17/08 a 21/08
 
 ### Segunda-feira (17/08)
 - ✅ Relatório do LondrinenseTech
