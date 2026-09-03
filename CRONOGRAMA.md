@@ -11,9 +11,9 @@
 - ✅ Atividade 12 - POO
 
 ### Quarta-feira (02/09)
-- ⏳ Relatório do Pensamento Computacional
-- ⏳ Organizar midia query portifólio(css)
-- ⏳ Atividade 13 - POO
+- ✅ Relatório do Pensamento Computacional
+- ✅ Organizar midia query portifólio(css)
+- ✅ Atividade 13 - POO
 
 ### Quinta-feira (03/09)
 - ⏳ Organizar e arrumar portifólio(css)
