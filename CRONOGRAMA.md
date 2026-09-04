@@ -16,12 +16,18 @@
 - ✅ Atividade 13 - POO
 
 ### Quinta-feira (03/09)
-- ⏳ Organizar e arrumar portifólio(css)
-- ⏳ Aprimorar botões das aulas(css)
-- ⏳ Adicionar filtros aos botões de aulas(js)
+- ✅ Lista 02 - Tópicos de Álgebra Linear 
+- ✅ Tarefa 04 - Tópicos de Álgebra Linear
+- ⏳ Organizar midia query portifólio(css)
+- OBS: Mudei bastante coisa no media query, mas estou insatisfeito.
 
 ### Sexta-feira (04/09)
-- ⏳ Lista 02 - Tópicos de Álgebra Linear 
+- ✅ Atividade 14 - POO
+- ✅ Tarefa 05 - Tópicos de Álgebra Linear
+- ✅ Tarefa 06 - Tópicos de Álgebra Linear
+- ✅ Tarefa 07 - Tópicos de Álgebra Linear
+
+
 
 ---
 
